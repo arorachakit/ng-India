@@ -1,6 +1,14 @@
 # NgIndia
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.4.
+This project an Amgular project, that shows the integration of Storyblok with Angular.
+You can read more about Angular and Storyblok [here](https://www.storyblok.com/tp/add-a-headless-cms-to-angular-in-5-minutes)
+
+## Space and code setup
+
+You need to have a Storyblok account to run this project. You can create a new account from [https://www.storyblok.com/](https://www.storyblok.com/)
+
+After the account is created, grab the access token and enter it inside the storyblok.service.ts file.
+
 
 ## Development server
 
